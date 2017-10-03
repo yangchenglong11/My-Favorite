@@ -1,23 +1,25 @@
 # Awesome Stars
 
-##简介
+## 简介
 
 My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期浏览项目时觉得不错就 star 了，但仅仅半年star 数量就达到了300多。。。于是决定将其整理记录。这里的项目Star数不是实时更新的，一般是一月更新一次。 
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
-  - [DIGITAL Command Language](#digital_command_language)
+  - [DIGITAL-Command-Language](#digital-command-language)
   - [Dart](#dart)
+  - [Emacs Lisp](#emacs_lisp)
   - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter_notebook)
+  - [Jupyter-Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Logos](#logos)
   - [Makefile](#makefile)
@@ -27,18 +29,25 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
-  - [Protocol Buffer](#protocol_buffer)
+  - [Protocol-Buffer](#protocol-buffer)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [XSLT](#xslt)
 
+## Assembly 
+
+- [assembly-exercise](https://github.com/Forec/assembly-exercise) - 汇编基础习题集
+
 ## C 
 
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
+- [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
@@ -52,27 +61,42 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## C# # 
 
+- [FixPlusPlus](https://github.com/hACKbUSTER/FixPlusPlus) - :wrench: First Prize For SegmentFault Hackathon Beijing. FIX++ (FixPlusPlus) is a professional display solution for future guidelines and instruction manuals. 更专业的拆解拼装展示方案，可应用于乐高玩具，宜家家具，苹果电脑等领域。
+- [kudu](https://github.com/projectkudu/kudu) - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.
 - [P](https://github.com/p-org/P) - The P programming language.
 
 ## C++ 
 
+- [Gource](https://github.com/acaudwell/Gource) - software version control visualization
+- [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+- [zircon](https://github.com/fuchsia-mirror/zircon) - Zircon Kernel, Core Drivers, and Services
+- [brpc](https://github.com/brpc/brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 
 ## CSS 
 
+- [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh) - :book:【译】UCB CS61a SICP Python
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest
 - [webcron](https://github.com/lisijie/webcron) - 定时任务管理器
 - [tutorial](https://github.com/beego/tutorial) - beego tutorial
 
-## DIGITAL Command Language 
+## DIGITAL-Command-Language 
 
 - [ud120-projects](https://github.com/udacity/ud120-projects) - Starter project code for students taking Udacity ud120
 
 ## Dart 
 
+- [Flutter-StepByStep](https://github.com/fabiomsr/Flutter-StepByStep) - A example of an Android / iOS app written using Google Flutter with MVP architecture
+- [chromedeveditor](https://github.com/googlearchive/chromedeveditor) - Chrome Dev Editor is a developer tool for building apps on the Chrome platform - Chrome Apps and Web Apps, in JavaScript or Dart. (NO LONGER IN ACTIVE DEVELOPMENT)
+- [sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
+- [angular](https://github.com/dart-lang/angular) - Fast and productive web framework provided by Dart
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+
+## Emacs Lisp 
+
+- [Arsenal](https://github.com/leohxj/Arsenal) - 武器库，更新自己使用的软件与技巧。
 
 ## Erlang 
 
@@ -80,6 +104,28 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## Go 
 
+- [go-plugins](https://github.com/micro/go-plugins) - Plugins for go-micro {registry, broker, codec, transport, ...}
+- [books](https://github.com/titpetric/books) - Samples from my published works
+- [serve-vue](https://github.com/titpetric/serve-vue) - Serve a built vue-js project folder
+- [FaceDetectionServer](https://github.com/mohanson/FaceDetectionServer) - 基于 SeetaFace 的人脸识别服务, By and For Golang
+- [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
+- [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [jaeger](https://github.com/jaegertracing/jaeger) - Jaeger, a Distributed Tracing System
+- [graphql-go](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use
+- [mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码
+- [build-your-own-docker](https://github.com/xf0rk/build-your-own-docker) - 自己动手写Docker
+- [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
+- [ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
+- [external-storage](https://github.com/kubernetes-incubator/external-storage) - External storage plugins, provisioners, and helper libraries
+- [go-libav](https://github.com/imkira/go-libav) - Go language bindings for ffmpeg libraries
+- [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
+- [backoff](https://github.com/cenkalti/backoff) - The exponential backoff algorithm in Go (Golang).
+- [go-algorithms](https://github.com/0xAX/go-algorithms) - Algorithms and data structures for golang
+- [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
+- [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+- [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+- [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [facebook](https://github.com/huandu/facebook) - A Facebook Graph API SDK Library For Golang
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [go-curl](https://github.com/mikemintang/go-curl) - golang版本的curl请求库
@@ -99,7 +145,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
 - [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.
 - [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon
-- [kubicorn](https://github.com/kris-nova/kubicorn) - Simple. Kubernetes. Infrastructure.
+- [kubicorn](https://github.com/kris-nova/kubicorn) - Simple. Cloud Native. Kubernetes. Infrastructure.
 - [hydra](https://github.com/ory/hydra) - OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go.
 - [golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [gorgonia](https://github.com/chewxy/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
@@ -129,11 +175,11 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [istio](https://github.com/istio/istio) - Sample code, build and tests and governance material for the Istio project.
 - [monocular](https://github.com/kubernetes-helm/monocular) - Web UI for Helm Chart repositories
 - [voyager](https://github.com/appscode/voyager) - ✈️️ Secure Ingress Controller for Kubernetes
-- [faas-netes](https://github.com/alexellis/faas-netes) - Enable Kubernetes as a backend for OpenFaaS (Functions as a Service)
+- [faas-netes](https://github.com/openfaas/faas-netes) - Enable Kubernetes as a backend for OpenFaaS (Functions as a Service)
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 - [goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
 - [teleport](https://github.com/henrylee2cn/teleport) - Teleport is a versatile, high-performance and flexible TCP socket framework.  It can be used for RPC, micro services, peer-peer, push services, game services and so on.
-- [mafio](https://github.com/domac/mafio) - 基于Go的采集任务调度工具,支持插件化和metric监控
+- [mafio](https://github.com/domac/mafio) - 基于Go的后台任务服务,支持插件化和metric监控
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [httpdump](https://github.com/domac/httpdump) - Packet capture utility similar to tcpdump for HTTP using Go
 - [Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
@@ -147,7 +193,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [rikka](https://github.com/7sDream/rikka) - A simple image share system in go.
 - [vice](https://github.com/matryer/vice) - Go channels at horizontal scale (powered by message queues)
 - [example.v2](https://github.com/gopcp/example.v2) - An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).
-- [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [2017-talks](https://github.com/gophercon/2017-talks) - Slides and links for 2017 talks
 - [nrpc](https://github.com/rapidloop/nrpc) - nRPC is like gRPC, but over NATS
@@ -251,7 +297,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [kasper](https://github.com/movio/kasper) - Kasper is a lightweight library for processing Kafka topics.
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go programming language secure coding practices guide
-- [faas](https://github.com/alexellis/faas) - Functions as a Service (OpenFaaS) - a serverless framework for Docker & Kubernetes
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - a serverless framework for Docker & Kubernetes
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-nats](https://github.com/nats-io/go-nats) - Golang client for NATS, the cloud native messaging system.
 - [echo-web](https://github.com/hb-go/echo-web) - Go web framework Echo example.
@@ -303,6 +349,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## HTML 
 
+- [blog](https://github.com/it-ebooks/blog) - 
 - [NPWG_zh](https://github.com/astaxie/NPWG_zh) - Network programming with Go 中文翻译版本
 - [dockers](https://github.com/iron-io/dockers) - Uber tiny Docker images for all the things.
 - [machinelearninginaction](https://github.com/pbharrin/machinelearninginaction) - Source Code for the book: Machine Learning in Action published by Manning
@@ -323,6 +370,10 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## Java 
 
+- [TakePhoto](https://github.com/crazycodeboy/TakePhoto) - 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+- [AlgorithmVisualizer-Android](https://github.com/naman14/AlgorithmVisualizer-Android) - Visualize algorithms and data structures using animations
+- [Algorithms](https://github.com/pedrovgs/Algorithms) - Solutions for some common algorithm problems written in Java.
+- [OnePush](https://github.com/pengyuantao/OnePush) - 消息推送用OnePush，就够了！
 - [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind
 - [DeepLearning](https://github.com/yusugomori/DeepLearning) - Deep Learning (Python, C, C++, Java, Scala, Go)
 - [algorithm-essentials](https://github.com/soulmachine/algorithm-essentials) - 算法精粹--举一反三，抛弃题海战术
@@ -362,6 +413,20 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## JavaScript 
 
+- [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。
+- [eth-smart-contracts](https://github.com/LAToken/eth-smart-contracts) - Tokens smart contracts of the LAToken Project
+- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints !
+- [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
+- [Programming-Alpha-To-Omega](https://github.com/justjavac/Programming-Alpha-To-Omega) - 从零开始学编程 系列汇总（从α到Ω）
+- [learnVue](https://github.com/answershuto/learnVue) - Vue.js源码剖析
+- [serverless-graphql-echo](https://github.com/mvargeson/serverless-graphql-echo) - A GraphQL example using Serverless v1
+- [smartping](https://github.com/gy-games/smartping) - 机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。
+- [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
+- [flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications.
+- [mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits
+- [GayHub](https://github.com/jawil/GayHub) - An awesome chrome extension for github :octocat:
+- [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [kpass](https://github.com/seccom/kpass) - KPass is a web application to manage password safe.
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -384,7 +449,6 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [data_location](https://github.com/mumuy/data_location) - 中国行政区划信息-区划代码数据库【省、市、区县、乡镇街道】三四级联动（GB/T 2260）
-- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github
 - [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [home](https://github.com/icub3d/home) - A simple appengine application written in Go and AngularJS that provides the ability to make and share lists with others.
@@ -403,12 +467,14 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [beego-blog](https://github.com/igo9go/beego-blog) - 使用golang的beego框架搭建的博客
 - [beepkg](https://github.com/astaxie/beepkg) - an app base on beego
 
-## Jupyter Notebook 
+## Jupyter-Notebook 
 
+- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
+- [deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera) - Deep Learning Specialization by Andrew Ng on Coursera.
 - [ML-Tutorial-Experiment](https://github.com/jiqizhixin/ML-Tutorial-Experiment) - Coding the Machine Learning Tutorial for Learning to Learn
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 
 ## Kotlin 
 
@@ -421,6 +487,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## Makefile 
 
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [Network-Programming-with-Go](https://github.com/tumregels/Network-Programming-with-Go) - Network programming with Go
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 - [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）
@@ -437,17 +504,28 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## Objective-C 
 
+- [matcha](https://github.com/gomatcha/matcha) - A framework for building iOS and Android apps in Go
 - [FishChat](https://github.com/yulingtianxia/FishChat) - Hook WeChat.app on non-jailbroken devices.
 
 ## Others 
 
+- [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList) - 
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [knowledge](https://github.com/HcySunYang/knowledge) - 前端(Not just)工程师终究要掌握的知识
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
+- [blog](https://github.com/xufei/blog) - my personal blog
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - A curated list of awesome Flutter frameworks, libraries, and softwares
+- [-Api](https://github.com/jokermonn/-Api) - 「一个」、「Time 时光」、「开眼」、「一席」、「梨视频」、「微软必应词典」、「金山词典」、「豆瓣电影」、「中央天气」、「魅族天气」、「每日一文」、「12306」、「途牛」、「快递100」、「快递」应用 Api。仅供学习，禁止商业使用，侵权请联系删除。
+- [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
+- [awesome-dart](https://github.com/yissachar/awesome-dart) - A curated list of awesome Dart frameworks, libraries, and software
 - [weekly](https://github.com/zenany/weekly) - 汇总平时看到的好文章，技术、产品、管理均有，尽量保证一周汇总一篇
 - [tech-community-slacks](https://github.com/ladyleet/tech-community-slacks) - Here is a list of all the tech community slacks!
 - [books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
-- [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook) - MIT Deep Learning Book in PDF format
 - [system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选
 - [features](https://github.com/kubernetes/features) - Feature tracking repo for Kubernetes releases
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -479,7 +557,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
 - [Mongo2ES](https://github.com/Alino/Mongo2ES) - sync MongoDB collections to ElasticSearch
 - [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-- [realworld](https://github.com/gothinkster/realworld) - TodoMVC for the RealWorld™ — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
@@ -499,7 +577,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [ELKstack-guide-cn](https://github.com/chenryn/ELKstack-guide-cn) - ELK Stack 中文指南
 - [logstash-best-practice-cn](https://github.com/chenryn/logstash-best-practice-cn) - 本书已出版《ELK Stack权威指南》
-- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
+- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  Dev Tools Pro:
 - [Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
@@ -516,12 +594,21 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 - [sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 
-## Protocol Buffer 
+## Protocol-Buffer 
 
 - [tensorflow_template_application](https://github.com/tobegit3hub/tensorflow_template_application) - TensorFlow template application for deep learning
 
 ## Python 
 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python implementation for Reinforcement Learning: An Introduction
+- [gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
+- [algorithm](https://github.com/qiwsir/algorithm) - 
+- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
+- [algorithms](https://github.com/nryoung/algorithms) - An educational library of algorithms in Python
+- [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [git-webhook](https://github.com/NetEaseGame/git-webhook) - :octocat: 使用 Python Flask + SQLAchemy + Celery + Redis + React 开发的用于迅速搭建并使用  WebHook 进行自动化部署和运维，支持 Github / GitLab / Gogs / GitOsc。
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform.
@@ -551,6 +638,8 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## Ruby 
 
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - A list of awesome:star:style guide.
 - [github-services](https://github.com/github/github-services) - Legacy GitHub Services Integration - You can set these up in your repository settings screen under Service Hooks
 - [platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 - [githubarchive.org](https://github.com/igrigorik/githubarchive.org) - GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -568,6 +657,7 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## Shell 
 
+- [go](https://github.com/treeder/go) - Go tool that uses Docker and only Docker.
 - [hellobuild](https://github.com/adriaandejonge/hellobuild) - Create a Docker container that creates a Docker container
 - [slimage](https://github.com/hesion3d/slimage) - Make slim docker image for golang applications.
 - [mongo-sharded-cluster](https://github.com/abdul/mongo-sharded-cluster) - An experimental Mongo sharded cluster using Docker
@@ -583,6 +673,10 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [elk](https://github.com/autopilotpattern/elk) - Elasticsearch-Logstash-Kibana (ELK) stack demonstrating the autopilot pattern
 
+## Swift 
+
+- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github
+
 ## TeX 
 
 - [leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版
@@ -593,6 +687,8 @@ My-Favorite 收录了我浏览 github 时，觉得不错的一些项目，前期
 
 ## TypeScript 
 
+- [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with Deeplearn.JS library
+- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [mongo-es](https://github.com/jike-engineering/mongo-es) - A MongoDB to Elasticsearch connector
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every server or UI framework
 - [octohint](https://github.com/pd4d10/octohint) - A browser extension which brings VSCode's IntelliSense hint to GitHub
